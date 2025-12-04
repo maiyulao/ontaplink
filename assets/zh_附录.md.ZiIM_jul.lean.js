@@ -1,0 +1,1 @@
+import{_ as d,c as e,o,aj as r}from"./chunks/framework.e3UxQEvm.js";const g=JSON.parse('{"title":"附录","description":"","frontmatter":{},"headers":[],"relativePath":"zh/附录.md","filePath":"zh/附录.md"}'),a={name:"zh/附录.md"};function c(i,t,l,n,s,h){return o(),e("div",null,[...t[0]||(t[0]=[r("",10)])])}const p=d(a,[["render",c]]);export{g as __pageData,p as default};

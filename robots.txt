@@ -1,0 +1,22 @@
+# robots.txt for OneTapLink Bot Documentation
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://doc.onetaplink.top/sitemap.xml
+
+# Disallow admin or private areas if any
+# Disallow: /admin/
+# Disallow: /private/
+
+# Allow all search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+

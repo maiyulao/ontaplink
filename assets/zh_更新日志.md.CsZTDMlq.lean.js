@@ -1,0 +1,1 @@
+import{_ as e,c as l,o as i,aj as r}from"./chunks/framework.e3UxQEvm.js";const m=JSON.parse('{"title":"更新日志","description":"","frontmatter":{},"headers":[],"relativePath":"zh/更新日志.md","filePath":"zh/更新日志.md"}'),t={name:"zh/更新日志.md"};function n(_,a,o,s,d,h){return i(),l("div",null,[...a[0]||(a[0]=[r("",5)])])}const f=e(t,[["render",n]]);export{m as __pageData,f as default};

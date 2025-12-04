@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as l,aj as t}from"./chunks/framework.e3UxQEvm.js";const m=JSON.parse('{"title":"联系支持","description":"","frontmatter":{},"headers":[],"relativePath":"zh/联系支持.md","filePath":"zh/联系支持.md"}'),i={name:"zh/联系支持.md"};function n(o,a,s,h,_,d){return l(),r("div",null,[...a[0]||(a[0]=[t("",8)])])}const f=e(i,[["render",n]]);export{m as __pageData,f as default};
